@@ -1,0 +1,2 @@
+# An-AI-Powered-Preventive-Health-Guidance-System-For-Early-Symptom-Awareness
+The AI-Powered Preventive Health Guidance System for Early Symptom Awareness is a smart healthcare application developed using React.js for the frontend and Node.js for the backend. The system is designed to help users identify potential health issues at an early stage by analyzing symptoms and providing preventive guidance. 
